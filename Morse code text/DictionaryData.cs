@@ -33,6 +33,17 @@ public static class DictionaryData
         dictionary.Add("X", "-..-");
         dictionary.Add("Y", "-.--");
         dictionary.Add("Z", "--..");
+        dictionary.Add("1", ".----");
+        dictionary.Add("2", "..---");
+        dictionary.Add("3", "...--");
+        dictionary.Add("4", "....-");
+        dictionary.Add("5", ".....");
+        dictionary.Add("6", "-....");
+        dictionary.Add("7", "--...");
+        dictionary.Add("8", "---..");
+        dictionary.Add("9", "----.");
+        dictionary.Add("0", "-----");
+
 
         return dictionary;
     }
@@ -68,6 +79,16 @@ public static class DictionaryData
         dictionary.Add("-..-", "X");
         dictionary.Add("-.--", "Y");
         dictionary.Add("--..", "Z");
+        dictionary.Add(".----", "1");
+        dictionary.Add("..---", "2");
+        dictionary.Add("...--", "3");
+        dictionary.Add("....-", "4");
+        dictionary.Add(".....", "5");
+        dictionary.Add("-....", "6");
+        dictionary.Add("--...", "7");
+        dictionary.Add("---..", "8");
+        dictionary.Add("----.", "9");
+        dictionary.Add("-----", "0");
         return dictionary;
     }
 }
