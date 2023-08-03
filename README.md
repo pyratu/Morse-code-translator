@@ -9,7 +9,7 @@ A **Morse code translator** implemented in C#. Convert text to Morse code and vi
 - Supports letters and numbers.
 - Clean and efficient C# codebase for fast execution.
 - Command-line interface (CLI) for easy interaction.
-- Lightweight and cross-platform - works on Windows, macOS, and Linux.
+- Lightweight and cross-platform.
 
 ## Contributing 🤝
 
